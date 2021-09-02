@@ -1,2 +1,2 @@
 # NoteTracker
-Learning React and ASP .Net core
+A sample app for learning React and ASP .Net core
